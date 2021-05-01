@@ -1,0 +1,75 @@
+SAMPLE SIZE: numbers between 0 and 9999999
+
+
+DATA SIZE 100
+time take by iterative bubble sort = 0.000134
+
+time take by recursive bubble sort = 0.000084
+
+time take by mergesort = 0.000019
+
+time take by qsort = 0.000012
+
+DATA SIZE 1000
+time take by iterative bubble sort = 0.009220
+
+time take by recursive bubble sort = 0.009038
+
+time take by mergesort = 0.000548
+
+time take by qsort = 0.000392
+
+
+DATA SIZE 5000
+time take by iterative bubble sort = 0.075750
+
+time take by recursive bubble sort = 0.059739
+
+time take by mergesort = 0.000725
+
+time take by qsort = 0.000522
+
+DATA SIZE 10000
+time take by iterative bubble sort = 0.076668
+
+time take by recursive bubble sort = 0.060478
+
+time take by mergesort = 0.000724
+
+time take by qsort = 0.000519
+
+DATA SIZE 25000
+time take by iterative bubble sort = 1.986529
+
+time take by recursive bubble sort = 1.884230
+
+time take by mergesort = 0.004107
+
+time take by qsort = 0.002988
+
+DATA SIZE 50000
+time take by iterative bubble sort = 8.203230
+
+time take by recursive bubble sort = 7.920014
+
+time take by mergesort = 0.008674
+
+time take by qsort = 0.006552
+
+DATA SIZE 75000
+time take by iterative bubble sort = 19.035703
+
+time take by recursive bubble sort = 18.217556
+
+time take by mergesort = 0.013514
+
+time take by qsort = 0.009989
+
+DATA SIZE 100000
+time take by iterative bubble sort = 18.831402
+
+time take by recursive bubble sort = 18.137690
+
+time take by mergesort = 0.013531
+
+time take by qsort = 0.009987

@@ -1,0 +1,3 @@
+This code gives you the sorted list the moment you enter the next element, 
+after you enter one element just type y to add more elements or n to terminate.
+max string length it can take is 20 but you can modify it.
